@@ -1,0 +1,6 @@
+{ command build yang dipakai }
+mkdir build 
+cd build
+cmake ..
+cmake --build .
+./main
